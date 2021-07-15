@@ -1,0 +1,4 @@
+Run ID,Name,Source Type,Source Name,User,Status,alpha,l1_ratio,mae,r2,rmse
+995551bfc4f1405f83edfe0bf9e5c4cc,,LOCAL,/home/raha/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py,raha,FINISHED,0.1,0.1,0.5462202174984664,0.2799376066653345,0.7128829045893679
+339ec64112404aedbb3ffe9cafa37db2,,LOCAL,/home/raha/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py,raha,FINISHED,0.2,0.2,0.5643841279275428,0.2373946606358417,0.7336400911821402
+1f20f553d0794a1180d7c001e8d8503e,,LOCAL,/home/raha/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py,raha,FINISHED,0.5,0.5,0.6271946374319586,0.10862644997792614,0.7931640229276851
